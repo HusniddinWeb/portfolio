@@ -8,6 +8,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
+body:lang(en) {
+    color: rgb(255, 0, 0);
+  }
+
 header{
     position: fixed;
     background: #06062fa9;

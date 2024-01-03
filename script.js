@@ -28,5 +28,11 @@ window.addEventListener('DOMContentLoaded', function(){
         document.body.scrollTop = 0;
         document.documentElement.scrollTop = 0;
     })
+
+    function changeLanguage(lang) {
+        document.documentElement.lang = lang;
+      }
+      changeLanguage('uz');
 });
+
 
