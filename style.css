@@ -163,7 +163,7 @@ section{
 .sectionTitle::before{
     content: "";
     position: absolute;
-    top: 56px;
+    top: 58px;
     left: 50%;
     width: 140px;
     height: 4px;
@@ -173,7 +173,7 @@ section{
 .sectionTitle::after{
     content: "";
     position: absolute;
-    top: 50px;
+    top: 52px;
     left: 50%;
     width: 15px;
     height: 15px;
